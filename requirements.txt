@@ -1,0 +1,4 @@
+opencv-python
+deepface
+flask  # Only if you're using Flask to serve the application
+numpy  # If numpy is used in your project
